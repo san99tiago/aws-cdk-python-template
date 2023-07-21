@@ -1,0 +1,11 @@
+{
+  "app": "python3 app.py",
+  "context": {
+    "main_resources_name": "cdk-python-template",
+    "tags": {
+      "Owner": "Santiago Garcia Arango",
+      "Source": "https://github.com/san99tiago/aws-cdk-python-template",
+      "Usage": "Example CDK-Python Template to be used in other repositories"
+    }
+  }
+}
