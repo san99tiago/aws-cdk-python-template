@@ -1,10 +1,6 @@
-# Built-in imports
-import os
-
 # External imports
 from aws_cdk import (
     Stack,
-    Duration,
     CfnOutput,
     aws_ssm,
 )
